@@ -1,6 +1,6 @@
 from random import randrange
 
-cat = ["락궁","맘스터치","땅땅치킨"]
+cat = ["화로상회","랑차이","맘스터치","피나치공","국밥"]
 
 
 
